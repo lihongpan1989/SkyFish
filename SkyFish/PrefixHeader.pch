@@ -1,0 +1,17 @@
+//
+//  PrefixHeader.pch
+//  SkyFish
+//
+//  Created by 李洪攀 on 15/11/18.
+//  Copyright © 2015年 SkyFish. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+#import "Define.h"
+#import "UIView+Frame.h"
+#import "MBProgressHUD+Add.h"
+#import "NSString+Tools.h"
+#import "Utils.h"
+#endif /* PrefixHeader_pch */
